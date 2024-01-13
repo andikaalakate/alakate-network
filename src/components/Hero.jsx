@@ -2,11 +2,11 @@ const Hero = () => {
   return (
     <>
       <div
-        className="hero min-h-screen"
-        style={{
-          backgroundImage:
-            "url(https://getwallpapers.com/wallpaper/full/2/8/1/818372-networking-wallpapers-2880x1800-laptop.jpg)",
-        }}
+        className="hero min-h-screen bg-[url(./bg.jpg)]"
+        // style={{
+        //   backgroundImage:
+        //     "",
+        // }}
         id="home"
       >
         <div className="hero-overlay bg-opacity-60"></div>
