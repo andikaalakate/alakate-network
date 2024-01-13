@@ -53,7 +53,7 @@ const Product = () => {
   ];
   return (
     <>
-      <div className="bg-gradient-to-tr from-white to-slate-50 pt-16 min-h-dvh" id="product">
+      <div className="bg-gradient-to-tr from-white to-slate-100 pt-16 min-h-dvh" id="product">
         <div className="container w-full">
           <div className="w-full px-4 pb-4">
             <div className="max-w-full mx-auto text-center pt-8">

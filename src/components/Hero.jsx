@@ -16,17 +16,21 @@ const Hero = () => {
               ALAKATE Network.
             </h1>
             <p className="mb-5"></p>
-            <button className="btn hover:bg-black hover:bg-opacity-75 bg-opacity-5 bg-white border rounded-lg m-2 backdrop-blur-sm text-white">
-              Lebih Lanjut
-            </button>
-            <button className="btn hover:bg-black hover:bg-opacity-75 bg-opacity-5 bg-white border rounded-lg m-2 backdrop-blur-sm text-white">
-              Kontak Saya
-            </button>
+            <a href="#about">
+              <button className="btn hover:bg-black hover:bg-opacity-75 bg-opacity-5 bg-white border rounded-lg m-2 backdrop-blur-sm text-white">
+                Lebih Lanjut
+              </button>
+            </a>
+            <a href="#contact">
+              <button className="btn hover:bg-black hover:bg-opacity-75 bg-opacity-5 bg-white border rounded-lg m-2 backdrop-blur-sm text-white">
+                Kontak Saya
+              </button>
+            </a>
           </div>
         </div>
       </div>
     </>
   );
-}
+};
 
-export default Hero
+export default Hero;
