@@ -13,42 +13,42 @@ const Product = () => {
       name: "Product 1",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sunt excepturi, eveniet debitis aliquam sint.",
-      image: "/cctv-1.jpg",
+      image: "./cctv-1.jpg",
     },
     {
       id: 2,
       name: "Product 2",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero exercitationem unde consectetur molestiae iure laudantium debitis deleniti asperiores minus velit blanditiis adipisci ipsum possimus ad, quaerat nesciunt odit labore quos ullam. Sed doloribus illo eveniet quas numquam voluptas labore hic est. Dicta facere sint cumque nihil omnis provident maxime unde fuga neque ipsam eligendi alias deserunt aliquam deleniti quibusdam esse, rem vero cum corporis earum ratione impedit quisquam, minus adipisci. Ad eum ipsam alias saepe facere. Molestias, nulla eveniet? Reprehenderit illum perspiciatis consectetur? Dolor, vitae voluptates, voluptatum eos autem debitis inventore aliquam neque est aliquid aspernatur nisi eaque? Qui, vitae.",
-      image: "/tplink.png",
+      image: "./tplink.png",
     },
     {
       id: 3,
       name: "Product 3",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sunt excepturi, eveniet debitis aliquam sint.",
-      image: "/fiberoptikkuning.png",
+      image: "./fiberoptikkuning.png",
     },
     {
       id: 4,
       name: "Product 4",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sunt excepturi, eveniet debitis aliquam sint.",
-      image: "/cctv-1.jpg",
+      image: "./cctv-1.jpg",
     },
     {
       id: 5,
       name: "Product 5",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sunt excepturi, eveniet debitis aliquam sint.",
-      image: "/cctv-1.jpg",
+      image: "./cctv-1.jpg",
     },
     {
       id: 6,
       name: "Product 6",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente sunt excepturi, eveniet debitis aliquam sint.",
-      image: "/cctv-1.jpg",
+      image: "./cctv-1.jpg",
     },
   ];
   return (
