@@ -28,7 +28,7 @@ const Navbar = () => {
     navMenu.classList.toggle("hidden");
   };
   return (
-    <header className="absolute top-0 left-0 w-full flex items-center bg-black bg-opacity-50">
+    <header className="absolute top-0 left-0 w-full flex items-center bg-dark bg-opacity-50">
       <div className="container">
         <div className="flex items-center justify-between relative">
           <div className="px-4">
@@ -51,7 +51,7 @@ const Navbar = () => {
 
             <nav
               id="nav-menu"
-              className="hidden lg:block lg:static lg:bg-transparent lg:max-w-full absolute py-5 bg-black bg-opacity-50 shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:shadow-none lg:rounded-none lg:right-0 transition-all duration-500 ease-in-out"
+              className="hidden lg:block lg:static lg:bg-transparent lg:max-w-full absolute py-5 bg-dark bg-opacity-50 shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:shadow-none lg:rounded-none lg:right-0 transition-all duration-500 ease-in-out"
             >
               <ul className="block lg:flex">
                 <li className="group">

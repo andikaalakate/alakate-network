@@ -1,6 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 import DaisyUI from "daisyui";
-import scrollbar from "tailwind-scrollbar";
 
 export default {
   content: ["./src/**/*.{html,js,jsx}"],
@@ -30,5 +29,5 @@ export default {
       },
     },
   },
-  plugins: [DaisyUI, scrollbar({ nocompatible: true })],
+  plugins: [DaisyUI],
 };
