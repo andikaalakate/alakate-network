@@ -75,7 +75,7 @@ const Product = () => {
                 data-aos="fade-up"
                 data-aos-anchor-placement="top-center"
               >
-                <div className="rounded-md shadow-md overflow-hidden hover:scale-95 hover:border-4 transition-all duration-500 hover:border-black hover:shadow-sm">
+                <div className="rounded-md shadow-md overflow-hidden hover:scale-95 transition-all duration-500 hover:shadow-xl">
                   <div className="w-full h-[27rem]">
                     <img
                       src={product.image}

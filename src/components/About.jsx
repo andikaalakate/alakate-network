@@ -12,7 +12,9 @@ const About = () => {
             <p className="py-6">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, voluptas vel vero ut enim inventore dolore odio eum magni repellat, nihil aperiam consectetur minima! Quo vitae ab dolorem eaque minima deleniti numquam itaque, expedita aspernatur? Voluptate, perferendis a. Suscipit eaque sequi accusantium officiis eos, non expedita et hic veritatis ratione!
             </p>
+            <a href="#product">
             <button className="btn btn-primary">Pesan</button>
+            </a>
           </div>
         </div>
       </div>
