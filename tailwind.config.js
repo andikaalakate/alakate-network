@@ -27,6 +27,9 @@ export default {
         minni: "375px",
         mini: "320px",
       },
+      backgroundImage: {
+        "hero-img": "url('./images/bg.jpg')",
+      },
     },
   },
   plugins: [DaisyUI],
